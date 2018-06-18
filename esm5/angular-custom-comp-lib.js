@@ -1,0 +1,13 @@
+/**
+ * @fileoverview added by tsickle
+ * @suppress {checkTypes} checked by tsc
+ */
+/**
+ * Generated bundle index. Do not edit.
+ */
+export { AngularCustomCompLibService, AngularCustomCompLibComponent, AngularCustomCompLibModule, HeaderModule, FloatbuttonModule, SubheaderModule } from './public_api';
+export { FloatbuttonComponent as ɵb } from './lib/floatbutton/floatbutton.component';
+export { HeaderComponent as ɵa } from './lib/header/header.component';
+export { SubheaderComponent as ɵc } from './lib/subheader/subheader.component';
+
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiYW5ndWxhci1jdXN0b20tY29tcC1saWIuanMiLCJzb3VyY2VSb290Ijoibmc6Ly9hbmd1bGFyLWN1c3RvbS1jb21wLWxpYi8iLCJzb3VyY2VzIjpbImFuZ3VsYXItY3VzdG9tLWNvbXAtbGliLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiI7Ozs7Ozs7QUFJQSx5SkFBYyxjQUFjLENBQUM7QUFFN0IsT0FBTyxFQUFDLG9CQUFvQixJQUFJLEVBQUUsRUFBQyxNQUFNLHlDQUF5QyxDQUFDO0FBQ25GLE9BQU8sRUFBQyxlQUFlLElBQUksRUFBRSxFQUFDLE1BQU0sK0JBQStCLENBQUM7QUFDcEUsT0FBTyxFQUFDLGtCQUFrQixJQUFJLEVBQUUsRUFBQyxNQUFNLHFDQUFxQyxDQUFDIiwic291cmNlc0NvbnRlbnQiOlsiLyoqXG4gKiBHZW5lcmF0ZWQgYnVuZGxlIGluZGV4LiBEbyBub3QgZWRpdC5cbiAqL1xuXG5leHBvcnQgKiBmcm9tICcuL3B1YmxpY19hcGknO1xuXG5leHBvcnQge0Zsb2F0YnV0dG9uQ29tcG9uZW50IGFzIMm1Yn0gZnJvbSAnLi9saWIvZmxvYXRidXR0b24vZmxvYXRidXR0b24uY29tcG9uZW50JztcbmV4cG9ydCB7SGVhZGVyQ29tcG9uZW50IGFzIMm1YX0gZnJvbSAnLi9saWIvaGVhZGVyL2hlYWRlci5jb21wb25lbnQnO1xuZXhwb3J0IHtTdWJoZWFkZXJDb21wb25lbnQgYXMgybVjfSBmcm9tICcuL2xpYi9zdWJoZWFkZXIvc3ViaGVhZGVyLmNvbXBvbmVudCc7Il19
